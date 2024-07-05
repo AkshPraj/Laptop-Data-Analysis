@@ -26,4 +26,4 @@ Before starting the cleaning process I manually assessed the dataset, to look fo
 
 DATASET BEFORE CLEANING         |        DATASET AFTER CLEANING
 :-------------------------------:|:---------------------------------:
-![](https://github.com/AkshPraj/Laptop-Data-Analysis/blob/main/image./before.PNG) | ![](https://github.com/AkshPraj/Laptop-Data-Analysis/blob/main/image./aftercleannnnn.PNG))
+![](https://github.com/AkshPraj/Laptop-Data-Analysis/blob/main/image./before.PNG) |![](https://github.com/AkshPraj/Laptop-Data-Analysis/blob/main/image./aftercleannnnn.PNG)
