@@ -1,4 +1,4 @@
-# Laptop data Analysis
+# Laptop Data Analysis
 In this Project, I’m going to clean laptop dataset in Microsoft Power Query. The task is to analyze the Laptop dataset and answer some key questions like, more expensive laptop, cheapest laptop laptop w.r.t. the brand, most expensive brand, distribution of price etc. Then, I use Microsoft Power BI to Visualize data and create an interactive dashboard.
 
 ## Data Source:
